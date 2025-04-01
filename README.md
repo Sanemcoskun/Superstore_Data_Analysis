@@ -47,3 +47,6 @@ git clone https://github.com/yourusername/Superstore_Data_Analysis.git
 2. Open the Jupyter notebook in the `notebooks/` folder.
 3. Run the cells to reproduce the analysis and visuals.
 
+## 🚀 Live Version
+You can also view this notebook on Kaggle:  
+[👉 Kaggle Notebook Link](https://www.kaggle.com/code/sanemcoskun/exploratory-data-analysis-on-superstore-dataset)
