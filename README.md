@@ -15,7 +15,6 @@ This project is an exploratory data analysis (EDA) of the Superstore sales datas
 Superstore_Data_Analysis/
 ├── data/                # Raw dataset
 ├── notebooks/           # Jupyter notebook for analysis
-├── images/              # Exported charts and graphs
 ├── README.md            # Project overview and explanation
 └── requirements.txt     # Python packages used
 ```
